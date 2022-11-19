@@ -1,2 +1,0 @@
-(** @canonical Utility.Rates_gen *)
-module Rates_gen = Utility__Rates_gen

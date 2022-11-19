@@ -1,0 +1,3 @@
+(library
+ (name coordinator)
+ (libraries core yojson))

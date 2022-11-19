@@ -1,6 +1,0 @@
-(** @canonical Fin_math.Interest *)
-module Interest = Fin_math__Interest
-
-
-(** @canonical Fin_math.Saving *)
-module Saving = Fin_math__Saving
