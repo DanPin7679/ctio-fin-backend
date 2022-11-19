@@ -1,0 +1,6 @@
+(** @canonical Act_type.CF_generic *)
+module CF_generic = Act_type__CF_generic
+
+
+(** @canonical Act_type.Salary *)
+module Salary = Act_type__Salary

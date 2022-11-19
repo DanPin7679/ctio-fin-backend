@@ -1,0 +1,8 @@
+lib: [
+  "_build/install/default/lib/actlib/META"
+  "_build/install/default/lib/actlib/dune-package"
+  "_build/install/default/lib/actlib/opam"
+]
+bin: [
+  "_build/install/default/bin/actlib"
+]

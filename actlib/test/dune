@@ -1,0 +1,5 @@
+(tests
+ (names test_runner)
+ (libraries base owl bigarray alcotest act_type fin_math mortality utility)
+ (action
+  (run %{test})))

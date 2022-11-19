@@ -1,0 +1,4 @@
+(executable
+ (public_name actlib)
+ (name main)
+ (libraries core owl yojson act_type fin_math mortality))
